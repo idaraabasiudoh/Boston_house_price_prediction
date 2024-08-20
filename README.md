@@ -1,4 +1,4 @@
-# Real Estate Price Prediction using Decision Tree Regressor
+# Boston Real Estate Price Prediction using Decision Tree Regressor
 
 This project uses a Decision Tree Regressor to predict real estate prices based on various features in the dataset. The dataset is preprocessed to remove any missing values before training the model. The model's performance is evaluated based on the score and the mean absolute error.
 
